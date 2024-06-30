@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-dev.daws78s.fun
+login_password: ExpenseApp1
+DB_HOST: db-dev.daws78s.fun
+BACKEND_API_URL: backend.app-dev.daws78s.fun
+nexus_url: nexus.daws78s.fun:8081
